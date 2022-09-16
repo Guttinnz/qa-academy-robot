@@ -1,8 +1,8 @@
 *** Settings ***
 
-Resource        base.robot
+Resource         base.robot
 
-Test Setup    Nova sessão
+Test Setup       Nova sessão
 
 Test Teardown    Encerra sessão
 
